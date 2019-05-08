@@ -1,0 +1,37 @@
+.not-ul .gx-media{
+cursor: pointer;
+transition-duration: 0.4s;
+}
+.not-ul .gx-media:hover {
+    background: #dedede;
+
+}
+.gx-media-body, .gx-align-self-center{
+padding-left: 15px !important;
+}
+.not-ul .gx-fs-sm {
+    font-size: 12px;
+    line-height: 1.5;
+}
+.not-ul ul{
+    padding-left: 0;
+    margin: 0 !important;
+}
+.not-ul {
+    padding-left: 0
+}
+.not-seen-not{
+    background: #dedede;
+}
+.new-not{
+    font-weight: bold;
+    margin-left: 15px;
+font-size: 10px;    
+}
+.not-ul .gx-fs-sm, .not-ul .gx-mb-0{
+display: inline;
+cursor: pointer;
+}
+.gx-popover-scroll{
+    margin-bottom: -17px !important;
+}

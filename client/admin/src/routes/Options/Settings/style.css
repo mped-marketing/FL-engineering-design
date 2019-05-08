@@ -1,0 +1,13 @@
+.buttons {
+    position: absolute;
+    top: 20px;
+    right: 23px;
+}
+.spec--button {
+    height: 30px;
+    line-height: 1
+}
+.ant-tabs-nav .ant-tabs-tab {
+    margin: 0 10px 0 0 !important;
+    padding: 12px 10px !important;
+}
